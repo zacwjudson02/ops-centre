@@ -28,6 +28,7 @@ pages:
         widgets:
           - type: clock
             hour-format: 24h
+            timezone: Australia/Brisbane
             timezones:
               - timezone: Etc/UTC
                 label: UTC
